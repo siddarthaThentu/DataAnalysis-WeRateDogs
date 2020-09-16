@@ -1,5 +1,3 @@
-<h1>Introduction</h1>
-
 **What is this project about**
 - In this project, we look at ways to gather data, supplement the incomplete data by wrangling the required data from the internet thorugh API, manually download available data files. After that, we assess the data for issues in it's quality and tidiness. Then, we clean the issues and save the clean file.
 
