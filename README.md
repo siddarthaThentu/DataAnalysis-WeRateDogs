@@ -42,3 +42,8 @@
  - tweets_json.txt : Tweet data extracted through tweepy API and stored in a text file
  - image_predictions.csv : Predictions for dog names from the image urls
  - twitter_archive_master : Final data after cleaning
+ 
+ <h1>License</h1>
+ [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+
