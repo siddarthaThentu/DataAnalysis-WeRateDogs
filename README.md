@@ -31,3 +31,14 @@
     **Name : image-predictions.tsv** <br>
     **Source : <a href="https://www.udacity.com/">Udacity</a>**<br>
     **Access : Download the file from server through requests library**
+
+<h1>Files</h1>
+
+ - wrangle_act.ipynb : Entire code for the project
+ - act_report.html : Medium blog post explaining the visualizations
+ - act_report.pdf : A pdf report of the  blog post
+ - wrangle_report.pdf : A report identifying the steps taken during the stages of data analysis
+ - twitter-archive-enhanced.csv : Data that we are starting with.
+ - tweets_json.txt : Tweet data extracted through tweepy API and stored in a text file
+ - image_predictions.csv : Predictions for dog names from the image urls
+ - twitter_archive_master : Final data after cleaning
